@@ -14,6 +14,9 @@ En nuestros días los avances y desarrollos en las metodologías, técnicas y te
 1. **Introducción al Mundo digital**
 	* Descargar presentación [PDF](https://github.com/marcoteran/digitalsystems/raw/master/lectures/01_mundodigital.pdf)
 
+1. **Sistemas numéricos, operaciones y códigos**
+	* Descargar presentación [PDF](https://github.com/marcoteran/digitalsystems/raw/master/lectures/01_mundodigital.pdf)
+		- **Taller 00:** *Sistemas numéricos, operaciones y códigos* [Descargar](https://github.com/marcoteran/digitalsystems/raw/master/homeworks/DC_TTQ_numbersystems.pdf) <sub>**(*deadline:* 01.03.2022)**</sub>
 
 ## Laboratorios
 
