@@ -19,7 +19,7 @@ En nuestros días los avances y desarrollos en las metodologías, técnicas y te
 		- **Taller 00:** *Sistemas numéricos, operaciones y códigos* [Descargar](https://github.com/marcoteran/digitalsystems/raw/master/homeworks/DC_TTQ_numbersystems.pdf) <sub>**(*deadline:* 01.03.2022)**</sub>
 
 ## Laboratorios
-
+1. **Laboratorio 01: *Introducción a los Sistemas Digitales*** [PDF](https://github.com/marcoteran/digitalsystems/raw/master/laboratory/DS_LAB01_introtods.pdf) <sub>**(*deadline:* 11.03.2022)**</sub>
 
 ## Material adicional
 
